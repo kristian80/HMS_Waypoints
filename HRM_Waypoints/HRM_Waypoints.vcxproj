@@ -81,7 +81,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <LibraryPath>C:\Qt\5.12.2\winrt_x86_msvc2017\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>E:\Docs\Games\X-Plane\CPP\atools\src;C:\Qt\5.12.2\winrt_x86_msvc2017\include;C:\Qt\5.12.2\winrt_x86_msvc2017\include\QtCore;$(IncludePath)</IncludePath>
+    <IncludePath>E:\Docs\Games\X-Plane\Ivy\boost_1_55_0\boost_1_55_0;E:\Docs\Games\X-Plane\CPP\atools\src;C:\Qt\5.12.2\winrt_x86_msvc2017\include;C:\Qt\5.12.2\winrt_x86_msvc2017\include\QtCore;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
